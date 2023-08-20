@@ -1,4 +1,4 @@
-package dz34;
+package dz3.2;
 
 import java.io.*;
 import java.util.ArrayList;
