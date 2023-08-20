@@ -1,4 +1,4 @@
-package dz34;
+package dz3.2;
 
 public class User {
     private String name;
